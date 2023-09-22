@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8C13-0C07
+
+ Directory of C:\Users\rishiraja\Desktop\MY FOLDER
+
+22-09-2023  10:25    <DIR>          .
+22-09-2023  10:25    <DIR>          ..
+13-09-2023  17:35            31,784 Jira.csv
+22-09-2023  10:25                 0 page.txt
+21-09-2023  14:54    <DIR>          SHOP
+               2 File(s)         31,784 bytes
+               3 Dir(s)  213,378,240,512 bytes free
